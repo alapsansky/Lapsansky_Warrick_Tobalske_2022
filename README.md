@@ -1,4 +1,5 @@
-# Lapsansky_Warrick_Tobalske_2022
+# Lapsansky, Warrick, and Tobalske (2022) - *Published* in [Integrative and Comparative Biology](https://academic.oup.com/icb/article-abstract/62/4/878/6638988)
+
 I noticed the other day that I had trouble accessing my own paper and the associated data through my university portal. To make those data more accessible, this page will serve as a secondary repository for data related to the paper "High Wing-Loading Correlates with Dive Performance in Birds, Suggesting a Strategy to Reduce Buoyancy", published in Integrative and Comparative Biology. **If you use the data, please cite the paper. And if you have any questions or want to collaborate, let me know!**
 
 ## Abstract
