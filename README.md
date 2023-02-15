@@ -16,6 +16,6 @@ Below is the table that took the most work of anything. An exhaustive (and exhau
 ### Table S3
 All orders of birds are considered with increased resolution to family, genera, and species levels where variation in aquatic behavior exists. The terrestrial (Terr.) habits of each group are categorized as either WR (walking/running) or IL (infrequent/labored). The aerial (Aerial) habits of each group are categorized as NV (non-volant), IF (infrequent flight), GS (gliding/soaring + flapping), CF (continuous flapping), or FB (flap-bounding). For both surface and submerged aquatic habits, the use of an appendage pair (FP – foot-propelled, WP – wing-propelled) for steady-state aquatic propulsion is indicated by a colored rectangle corresponding to that group. Colors (yellow, teal, and purple) are to ease visualization only. Gray rectangles indicate a lack of aquatic locomotion (surface or submerged) for that row. All diving and swimming groups are categorized according to their reliance on aquatic locomotion (Rel.) as either O (obligate; solid filled rectangles) or F (facultative; diagonal striped rectangles). In reliance columns, “?” indicates unknown reliance (sensu Ashmole 1971). In wing-propelled and foot-propelled columns, “?” indicates that the appendage pair may utilized for aquatic locomotion, but that concrete evidence is lacking. Taxonomic organization follows that of Birds of the World (Billerman et al. 2020).
 
-![Image](TableS3_LocomotorHabitsOfBirds_Page_1.png)
-![Image](TableS3_LocomotorHabitsOfBirds_Page_2.png)
-![Image](TableS3_LocomotorHabitsOfBirds_Page_3.png)
+![Image](locomotorHabits_Page_1.jpg)
+![Image](locomotorHabits_Page_2.jpg)
+![Image](locomotorHabits_Page_3.jpg)
